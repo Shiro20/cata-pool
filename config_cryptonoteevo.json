@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "Evoo64zh7dRFyB8dgDWZMLmzKBgGXYWZCG4NBF2VcvzEuiSQpMjyyiYJ1Ra696pZu56PPFQNBDdB1rZjyeX1RVKeWZgHg7pTxj",
+        "poolAddress": "caypRt5iBzFdgaaeWGA9pJfk4EGhXrXxa7HuKJLgQ3S91rbWPZ5s5hmBX2LQ4ihB81Lca5XDPTyH6Y6FmGBoBySD6EpJnQ7edM",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "sslKey": "key.pem",
@@ -140,12 +140,12 @@
     },
 
     "wallet": {
-        "host": "185.151.29.23",
+        "host": "185.151.29.69",
         "port": 4050
     },
 
     "redis": {
-        "host": "185.151.29.69",
+        "host": "185.151.29.95",
         "port": 6379
     },
 
